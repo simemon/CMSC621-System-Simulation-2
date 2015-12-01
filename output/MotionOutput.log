@@ -1,0 +1,13 @@
+Sent: Type:currValue;Device:MotionDetector;Value:True#1:1:1
+Sent: Type:currValue;Device:MotionDetector;Value:True#1:2:2
+Sent: Type:currValue;Device:MotionDetector;Value:False#2:3:2
+Sent: Type:currValue;Device:MotionDetector;Value:True#2:4:3
+Sent: Type:currValue;Device:MotionDetector;Value:True#3:5:4
+Sent: Type:currValue;Device:MotionDetector;Value:False#3:6:5
+Sent: Type:currValue;Device:MotionDetector;Value:False#4:7:6
+Sent: Type:currValue;Device:MotionDetector;Value:False#5:8:7
+Sent: Type:currValue;Device:MotionDetector;Value:True#7:9:8
+Sent: Type:currValue;Device:MotionDetector;Value:True#7:10:9
+Sent: Type:currValue;Device:MotionDetector;Value:False#8:11:10
+Sent: Type:currValue;Device:MotionDetector;Value:True#8:12:11
+Sent: Type:currValue;Device:MotionDetector;Value:True#9:13:12

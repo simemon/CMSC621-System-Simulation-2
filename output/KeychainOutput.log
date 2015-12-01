@@ -1,0 +1,13 @@
+Sent: Type:currValue;Device:KeyChain;Value:True#1:0:1
+Sent: Type:currValue;Device:KeyChain;Value:True#1:1:2
+Sent: Type:currValue;Device:KeyChain;Value:False#2:3:3
+Sent: Type:currValue;Device:KeyChain;Value:True#2:4:4
+Sent: Type:currValue;Device:KeyChain;Value:True#3:5:5
+Sent: Type:currValue;Device:KeyChain;Value:False#3:6:6
+Sent: Type:currValue;Device:KeyChain;Value:False#4:7:7
+Sent: Type:currValue;Device:KeyChain;Value:False#5:8:8
+Sent: Type:currValue;Device:KeyChain;Value:True#7:9:9
+Sent: Type:currValue;Device:KeyChain;Value:True#7:10:10
+Sent: Type:currValue;Device:KeyChain;Value:False#8:11:11
+Sent: Type:currValue;Device:KeyChain;Value:True#8:12:12
+Sent: Type:currValue;Device:KeyChain;Value:True#9:13:13

@@ -1,0 +1,15 @@
+Execute compile.sh (make sure it has executable permission, otherwise run: chmod +x compile.sh)
+
+./compile.sh
+
+Go to output directory:
+
+cd output/
+
+Execute run.sh (make sure it has executable permission as well, otherwise run: chmod +x run.sh)
+./run.sh
+
+
+It is working fine on my system, let me know if you are not able to get the output because of unclear instructions. 
+
+Email: siraj1@umbc.edu

@@ -1,0 +1,9 @@
+Sent: Type:currValue;Device:Door;Value:Open#1:0:0
+Sent: Type:currValue;Device:Door;Value:Close#2:2:2
+Sent: Type:currValue;Device:Door;Value:Open#3:4:4
+Sent: Type:currValue;Device:Door;Value:Close#4:6:6
+Sent: Type:currValue;Device:Door;Value:Open#5:7:7
+Sent: Type:currValue;Device:Door;Value:Close#6:8:8
+Sent: Type:currValue;Device:Door;Value:Open#7:8:8
+Sent: Type:currValue;Device:Door;Value:Close#8:10:10
+Sent: Type:currValue;Device:Door;Value:Open#9:12:12
